@@ -1,7 +1,7 @@
 # Experiment-3
 
-## NAME: Dheena Darshini Karthik Dheepan
-## REGNO: 212223240030
+## NAME: DHANDEESWARAN SELVAKUMAR
+## REGNO: 212223110009
 
 ## PRIME NUMBER OR NOT
 
